@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.1",
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.7.9",
+    "lucide-vue-next": "^0.474.0",
+    "pinia": "^2.3.1",
+    "tailwindcss": "^4.0.1",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vue3-toastify": "^0.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.5"
+  }
+}

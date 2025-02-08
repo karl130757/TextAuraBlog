@@ -1,0 +1,15 @@
+{
+	"name": "ts-blog",
+	"version": "1.0.0",
+	"description": "minimalist text blog application, created with mevn stack and typescript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ts-blog": "file:"
+	}
+}
