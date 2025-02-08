@@ -1,4 +1,4 @@
-# Blog Platform
+# TextAuraBlog
 
 ## Overview
 This is a full-stack blog platform where users can write and publish text blogs. The project consists of a backend built with Node.js, Express, and TypeScript, and a frontend that interacts with the API to display and manage blog posts.
